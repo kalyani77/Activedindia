@@ -1,0 +1,8 @@
+.bzoom_thumb_image{
+width: 300px;
+height: 400px;
+display: inline;
+}
+#img_preview.row{
+background-image:url("images/Untitled-1.jpg");
+}
